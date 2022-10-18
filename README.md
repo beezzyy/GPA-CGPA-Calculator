@@ -5,7 +5,7 @@ This GPA/CGPA Calculator will help you calculate your GPA easily with a simple U
 
 ## Technologies
 C# & 
-.Net Framework
+.NET Framework
 
 Designed and Programmed by: Adir Ben-David - ([GitHub/beezzyy](https://github.com/beezzyy))                
 
